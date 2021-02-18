@@ -4,22 +4,22 @@ published: true
 ---
 
 <div class="front">
-<p>Celem kursu jest przede wszystkim wprowadzenie w tematykę otwartej edukacji. Będziemy pokazywać metody, narzędzia i praktyki wspierające otwartość.
+<p>The purpose of this course is, first of all, to introduce the concept of open education. We will demonstrate different methods, tools, and practices that encourage and foster openness.
   </p>
   <p>
-    Poznasz metodę pracy Spółdzielni Otwartej Edukacji. Dowiesz się, czemu współpraca, uczenie się, przygoda i w efekcie otwarte zasoby edukacyjne są dla nas ważnymi elementami procesu otwierania się w edukacji. Podczas kursu będziesz mieć okazję poznać prace innych nauczycielek i nauczycieli, przyjrzeć się dobrym praktykom w polsce i zagranicą. Będziesz mieć szansę przećwiczyć nowozdobyte umiejętności, ale również zdobyć wiedzę z zakresu prawa autorskiego, czy nowoczesnych technologii w edukacji.
+    You’ll be introduced to the work method of the Open Education Cooperative. You’ll discover why collaboration, learning, adventure, and open educational resources are all integral parts of opening up the educational process. During the course, you’ll have the opportunity to take a look at the methods of other teachers, as well as observe teaching practices in Poland and abroad. You’ll have opportunities to practice newly learned abilities, and learn about a variety of topics, from copyright law to cutting-edge technology in education.
 
  </p> 
 </div>  
 
 <div class="home-intro">
   <p id="intro">
-Kurs będzie okazją do tego, aby dzielić się swoimi doświadczeniami i stać się częścią społeczności praktyków korzystających z otwartych zasobów online i tworzących swoje własne materiały.</p>
+The course is an opportunity to share your own experiences, and become part of a community using online open educational resources and even creating their own.</p>
 </div>  
 
 <div class="front">
  <p> 
-Jeśli dopiero planujesz korzystanie z otwartych zasobów, kurs będzie dla Ciebie świetnym punktem startowym, który da Ci szeroki ogląd na otwartość i zasoby. Jeśli już posiadasz takie doświadczenia, ale stale szukasz inspiracji i okazji, aby stworzyć i podzielić się samodzielnie opracowanymi materiałami dydaktycznymi z innymi, kurs to także dobre miejsce dla Ciebie.
+If you’ve recently started considering using open educational resources, the course will be a great starting point for you. If you’re already knowledgeable in the matter, but are still searching for inspiration and ideas on how to best create and share your own educational materials with others, this course is also a good place for you.
   </p>  
 </div>
 
