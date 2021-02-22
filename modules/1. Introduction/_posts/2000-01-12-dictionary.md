@@ -56,7 +56,7 @@ education based on trust, collaboration, the use of new technology, and open edu
 <p><a class="content-link dictionary" name="oze"><strong>open educational resources (OER)</strong></a><br/> 
 educational resources created with free licenses (or with works available through the public domain), available on different platforms and mediums.
 </p>
-<p><a class="content-link dictionary" name="domena_publiczna"><strong>public domain<public domain/strong></a><br/> 
+<p><a class="content-link dictionary" name="domena_publiczna"><strong>public domain</strong></a><br/> 
 A collection of works available for public use whose copyright has expired (such as Chopin’s compositions), as well as works that were never copyrighted because their creation precedes copyright law.</p>
  
 <p><a class="content-link dictionary" name="utwor"><strong>work</strong></a><br/> 
