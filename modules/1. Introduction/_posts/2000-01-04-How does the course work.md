@@ -52,7 +52,7 @@ An important tenet of open education is sharing and using existing resources; it
   &nbsp;
   
   <p><strong>Assignments:</strong></p>  
-  <p>PAfter each module, there will be some suggested tasks, or questions to tackle. If you want, you can send your projects to the EduCoop email: <a class="content-link" href="mailto:spoled@centrumcyfrowe.pl">spoled@centrumcyfrowe.pl </a>. We’re always happy to hear when people make use of our course.
+  <p>After each module, there will be some suggested tasks, or questions to tackle. If you want, you can send your projects to the EduCoop email: <a class="content-link" href="mailto:spoled@centrumcyfrowe.pl">spoled@centrumcyfrowe.pl </a>. We’re always happy to hear when people make use of our course.
 </p>
   
   &nbsp;
@@ -69,7 +69,7 @@ An important tenet of open education is sharing and using existing resources; it
 </ol>
 </p>
   &nbsp;
-  <p>The entirety of the course and code are available on Github <a class="content-link" target="_blank" href="https://github.com/spoledkurs-en/spoledkurs-en.github.io">GitHub</a> to use freely.</p>
+  <p>The entirety of the course and code are available on <a class="content-link" target="_blank" href="https://github.com/spoledkurs-en/spoledkurs-en.github.io">GitHub</a> to use freely.</p>
 
 </div> 
 
