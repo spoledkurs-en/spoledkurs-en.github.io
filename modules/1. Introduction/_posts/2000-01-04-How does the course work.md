@@ -10,7 +10,7 @@ How does the course work?
 
 
 <div class="screen-content">
-  <p>CWe want to share with you the information we’ve amassed about open educational resources through years of experience and cooperation with teachers and specialists from different fields.<br/>
+  <p>We want to share with you the information we’ve amassed about open educational resources through years of experience and cooperation with teachers and specialists from different fields.<br/>
 The course is based on materials created through EduCoop, as well as Centrum Cyfrowe’s other projects.<br/>
 An important tenet of open education is sharing and using existing resources; it’s part of the cycle of information, which is why we gladly turn to materials already available on the Internet, and encourage you to read, download, and remix resources for you own needs as well.</p> 
 <p>The course contents are available to all interested, without the need to register. The course contains quizzes and tests.</p>
