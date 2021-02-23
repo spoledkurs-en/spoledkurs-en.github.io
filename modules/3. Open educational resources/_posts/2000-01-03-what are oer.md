@@ -21,7 +21,7 @@ What are open educational resources?
  </ul>
   </p>
   <p class="source">
- Source: <a class="content-link" href="http://lumenlearning.com/about-oer/">The 5R Permissions of OER. Lumen Learning.</a> za:  <a class="content-link" href="http://www.exploerercourse.org/">Exploerer online course</a>. 
+ Source: <a class="content-link" href="http://lumenlearning.com/about-oer/">The 5R Permissions of OER. Lumen Learning.</a> after:  <a class="content-link" href="http://www.exploerercourse.org/">Exploerer online course</a>. 
   </p>
 
 <p>
