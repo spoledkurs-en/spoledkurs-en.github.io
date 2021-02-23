@@ -12,7 +12,7 @@ Assignment 1
 <div class="screen-content">
   <p>Think back to a successful lesson that took place at your library/community center/school.</p>
   
-  <p>What kind of new technology did you use to (for example) gain information, prepare assignments, or gather materials? Fill out the <a class="content-link" href="{{ site.baseurl }}/img/pliki_tekstowe/Opis zajęć zadanie 1.docx" download>form</a> form according to the outline:
+  <p>What kind of new technology did you use to (for example) gain information, prepare assignments, or gather materials? Fill out the <a class="content-link" href="{{ site.baseurl }}/img/pliki_tekstowe/Assignment 1.docx" download>form</a> according to the outline:
 </p>
   
   <p>
