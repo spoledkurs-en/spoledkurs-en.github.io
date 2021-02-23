@@ -21,7 +21,7 @@ Copyright law, free licenses, fair use, public domain
   <p>That’s why most of the information that we use is under copyright law. Not only books, songs, films, but e-mails from a friend, cell phone pictures, and comments on a forum all qualify as works. They immediately are restricted by copyright. The work doesn’t have to have been previously distributed. A photograph taken by you is a work regardless of if you publish it. The law protects a work from the moment of its creation.</p>
   
   <p style="margin-top: 30px;"><strong>Work and creator</strong> <br> Who is the creator of a work?</p>
-  <pTechnically, we are all creators; during a lecture or meeting, if we doodle a drawing in our margins, that doodle becomes a work. All of our presentations, lectures, assignments, and exercises created by us mean that we are creators. Have you ever considered who can use your works?</p>
+  <p>Technically, we are all creators; during a lecture or meeting, if we doodle a drawing in our margins, that doodle becomes a work. All of our presentations, lectures, assignments, and exercises created by us mean that we are creators. Have you ever considered who can use your works?</p>
   <p>What is a work?</p>
   <p>
       <ul>
