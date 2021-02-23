@@ -10,7 +10,7 @@ What are open educational resources?
 </div>
 
 <div class="screen-content">
-  <p>The openness of educational resources is decided by how they can be used by others. That’s how <a class="content-link" href="https://en.wikipedia.org/wiki/David_A._Wiley"> David Wiley</a>understood openness when he created the 5R rules. A resource is truly open if everyone has the right to:</p>
+  <p>The openness of educational resources is decided by how they can be used by others. That’s how <a class="content-link" href="https://en.wikipedia.org/wiki/David_A._Wiley"> David Wiley </a>understood openness when he created the 5R rules. A resource is truly open if everyone has the right to:</p>
   <p>
   <ul>
 <li class="bullet"><strong>Reuse</strong> - use the content in a wide range of ways,</li>
