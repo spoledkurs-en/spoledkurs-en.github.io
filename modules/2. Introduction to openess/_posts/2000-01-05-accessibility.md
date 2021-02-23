@@ -137,7 +137,7 @@ The accessibility of educational materials
   &nbsp; 
 
 <p class="text-center">
- <strong><a class="content-link" href="{{ site.baseurl }}/img/pliki_tekstowe/dostępnosc.docx" download> Read more about accessibility here.</a> </strong>
+ <strong><a class="content-link" href="{{ site.baseurl }}/img/pliki_tekstowe/Accessibility.docx" download> Read more about accessibility here.</a> </strong>
   </p>
 
 &nbsp; 
