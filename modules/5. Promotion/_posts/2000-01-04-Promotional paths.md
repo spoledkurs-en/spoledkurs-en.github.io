@@ -20,7 +20,7 @@ Promotional paths
 <li class="number"><strong>Friends</strong> – this is a great solution for those who are not certain if their work is worth paying attention to (it is) or those who are not familiar with social media. Send your materials to your fellow teachers or librarians. Simply email those who may have some interest in your material. If you feel up to it, ask them to share it with their friends (remember to include your contact information).</li>
     </p>
     <p>
-<li class="number"><strong>Cloud-based documents/strong> - if you already know a group of teachers who are interested in your materials, and want to share their own as well, we recommend using something like Google Docs, where everyone can upload files. You can also decide whether others can edit, or just view.
+<li class="number"><strong>Cloud-based documents</strong> - if you already know a group of teachers who are interested in your materials, and want to share their own as well, we recommend using something like Google Docs, where everyone can upload files. You can also decide whether others can edit, or just view.
 </li>
       </p>
     <p><li class="number"><strong>The blog route</strong> - create your own blog or website (more information available in a bit). Upload your resources with a CC license. You can also write about your experience collecting and creating the resources – what worked, what your students liked, etc.</li>
