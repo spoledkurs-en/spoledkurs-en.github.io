@@ -129,9 +129,9 @@ Search, download, and use them in your own work. <br/>
   </div>   
   <div class="col-md-10">
     <strong>Icons: </strong><br/>
-     <a class="content-link" target="_blank" href="https://fontlibrary.org/">Open Font Library</a><br/>
-	 <a class="content-link" target="_blank" href="https://fonts.google.com/">Google Fonts</a>
-  </div>             
+     <a class="content-link" target="_blank" href="http://www.clker.com/">clker.com</a><br/>
+	 <a class="content-link" target="_blank" href="https://openclipart.org/">openclipart</a>
+	</div>             
 </div>  
 
  &nbsp;
