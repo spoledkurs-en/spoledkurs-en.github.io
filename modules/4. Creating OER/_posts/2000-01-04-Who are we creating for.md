@@ -1,18 +1,18 @@
 ---
 layout: "course_page"
 
-title: "Dla kogo projektujemy?"
+title: "Who are we creating for?"
 
 ---
 
 <div class="text-center screen-title">
-Dla kogo projektujemy?
+Who are we creating for?
 </div>
 
 <div class="screen-content">
   <p>
-  Od paru lat karierę w edukacji robi metoda <i>design thinking</i>, czyli myślenie projektowe. I my też zachęcamy, aby popatrzeć na pracę w szkole i działania z uczennicami i uczniami z innej perspektywy.<br/>
-Pomyślcie o nich jako o użytkownikach i użytkowniczkach, a o materiałach, które tworzycie, jak o produkcie wymyślanym specjalnie dla nich.
+    For the past several years, the educational field has utilized <i>design thinking</i>. We also encourage you to look at your teaching career from a different perspective.<br/>
+Think about your students as users, and your materials as products designed specifically for them.
   </p>
   
   <p>
