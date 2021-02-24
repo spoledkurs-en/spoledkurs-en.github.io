@@ -111,16 +111,18 @@ Search, download, and use them in your own work. <br/>
 	 
 </div>    
  &nbsp;
+
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/zasoby_ikona8.png" alt=""/>          
+   <img src="{{ site.baseurl }}/img/zzasoby_ikona8.png" alt=""/>          
   </div>   
   <div class="col-md-10">
-    <strong>Icons:</strong><br/>
+    <strong>Illustrations & icons:</strong><br/>
     <a class="content-link" target="_blank" href="http://www.clker.com/">clker.com</a><br/>
 	 <a class="content-link" target="_blank" href="https://openclipart.org/">openclipart</a>
   </div>             
-</div>    
+</div>  
+
  &nbsp;
 <div class="row">
   <div class="col-md-2">
