@@ -110,8 +110,6 @@ Search, download, and use them in your own work. <br/>
      <a class="content-link" target="_blank" href="https://www.wikipedia.org/">Wikipedia</a><br/>
 	 
 </div>    
- &nbsp;
-
 
 <div class="row">
   <div class="col-md-2">
