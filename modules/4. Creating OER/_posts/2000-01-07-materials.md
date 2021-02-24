@@ -125,7 +125,7 @@ Search, download, and use them in your own work. <br/>
 
 <div class="row">
   <div class="col-md-2">
-   <img src="{{ site.baseurl }}/img/zasoby_ikona9.png" alt=""/>          
+   <img src="{{ site.baseurl }}/img/zasoby_ikona8.png" alt=""/>          
   </div>   
   <div class="col-md-10">
     <strong>Fonts: </strong><br/>
