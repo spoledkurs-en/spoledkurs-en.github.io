@@ -128,7 +128,7 @@ Search, download, and use them in your own work. <br/>
    <img src="{{ site.baseurl }}/img/zasoby_ikona8.png" alt=""/>          
   </div>   
   <div class="col-md-10">
-    <strong>Fonts: </strong><br/>
+    <strong>Icons: </strong><br/>
      <a class="content-link" target="_blank" href="https://fontlibrary.org/">Open Font Library</a><br/>
 	 <a class="content-link" target="_blank" href="https://fonts.google.com/">Google Fonts</a>
   </div>             
