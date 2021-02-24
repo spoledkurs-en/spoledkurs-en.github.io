@@ -22,7 +22,7 @@ Checklist
 </li>
 <li class="number">The material is also available in an editable form (ex. for PDFs, an editable .odt file is also available).</li>
 <li class="number">The material has been published on a website or blog, where it can be downloaded.</li>
-<li class="number">The material fulfills the requirements of openness(<a class="content-link" target="_blank" href="{{ site.baseurl }}/modules/2.%20introduction%20to%20openess/accessibility/">check here</a>).</li>
+<li class="number">The material fulfills the requirements of openness (<a class="content-link" target="_blank" href="{{ site.baseurl }}/modules/2.%20introduction%20to%20openess/accessibility/">check here</a>).</li>
 </ol>
   </p>
 
