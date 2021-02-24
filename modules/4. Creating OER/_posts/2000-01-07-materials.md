@@ -116,7 +116,7 @@ Search, download, and use them in your own work. <br/>
    <img src="{{ site.baseurl }}/img/zasoby_ikona8.png" alt=""/>          
   </div>   
   <div class="col-md-10">
-    <strong>Illustrations & icons: </strong><br/>
+    <strong>Icons:</strong><br/>
     <a class="content-link" target="_blank" href="http://www.clker.com/">clker.com</a><br/>
 	 <a class="content-link" target="_blank" href="https://openclipart.org/">openclipart</a>
   </div>             
