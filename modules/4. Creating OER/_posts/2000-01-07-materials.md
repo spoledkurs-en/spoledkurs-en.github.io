@@ -108,9 +108,9 @@ Search, download, and use them in your own work. <br/>
   <div class="col-md-10">
     <strong>Knowledge:</strong><br/>
      <a class="content-link" target="_blank" href="https://www.wikipedia.org/">Wikipedia</a><br/>
-	 
-</div>    
-
+	</div> 
+	</div>
+ &nbsp;
 <div class="row">
   <div class="col-md-2">
    <img src="{{ site.baseurl }}/img/zasoby_ikona8.png" alt=""/>          
