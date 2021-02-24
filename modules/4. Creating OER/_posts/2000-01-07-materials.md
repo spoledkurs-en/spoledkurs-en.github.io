@@ -1,32 +1,32 @@
 ---
 layout: "course_page"
 
-title: "Materiały"
+title: "Materials"
 
 ---
 
 <div class="text-center screen-title">
-Gdzie szukać materiałów do naszych prac
+Where to find materials for our work
 </div>
 
 <div class="screen-content">
   <p>
-  Otwartymi zasobami edukacyjnymi nazywamy zarówno gotowe scenariusze zajęć, jak i pojedyncze zdjęcia, wpisy w Wikipedii czy filmy na Youtubie, pod warunkiem, że są umieszczone na wolnej licencji lub znajdują się w domenie publicznej.
+  Open educational resources also include lesson plans, individual photographs, Wikipedia entries, and YouTube videos, as long as they’re uploaded on a free license or are in the public domain.
   </p>
   
   <p>
-  My zachęcamy do grupowego budowania i powiększania dobra wspólnego, co wiąże się z wykorzystywaniem istniejących materiałów i ich twórczym przetwarzaniem. Poniżej znajdziesz nasze propozycje stron, gdzie można znaleźć wartościowe, otwarte materiały, które mogą stać się elementami Twojej pracy. Pamiętaj tylko, aby zawsze oznaczyć źródło.
+We encourage you to build upon and add to this shared good, which includes using and editing existing materials. Below, you’ll find some examples of website where you can find quality open materials for your own use. Simply remember to always attribute the source.
 
   </p>
   
 &nbsp;
 <p>
-  <strong>Gdzie szukać materiałów do tworzenia otwartych zasobów edukacyjnych</strong>
+  <strong>Where to find materials for creating open educational resources</strong>
 </p>
 <p>
-  Polecamy strony i wyszukiwarki, które ułatwiają dostęp do materiałów na wolnych licencjach i z domeny publicznej. <br/>
-Szukaj, ściągaj, wykorzystuj w swojej pracy. <br/>  
-Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
+  We recommend websites and search engines that make finding resources in the public domain or available through free licenses easier. <br/>
+Search, download, and use them in your own work. <br/>  
+ Remember to always pay attention to the licenses. <br/>
 </p>
 &nbsp;  
 
@@ -36,11 +36,11 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
    <img src="{{ site.baseurl }}/img/zasoby_ikona1.png" alt=""/>          
   </div>   
   <div class="col-md-10">
-    <strong>Wyszukiwarki:</strong><br/>
-    <a class="content-link" target="_blank" href="https://www.google.com/advanced_search">Wyszukiwanie zaawansowane Google</a> - pozwala ustawić wyszukiwanie materiałów z wybraną licencją <br/>
-	 <a class="content-link" target="_blank" href="https://ccsearch.creativecommons.org/"> Wyszukiwarka Creative Commons</a> - wyszukuje materiały na CC z wybranych stron internetowych <br/>
-	 <a class="content-link" target="_blank" href="https://duckduckgo.com">DuckDuckGo</a> – wyszukuje wideo na licencji CC <br/>
-	  <a class="content-link" target="_blank" href="https://canweimage.com/">Can We Image</a> - wyszukuje fotografie na licencji CC
+    <strong>Search engines:</strong><br/>
+    <a class="content-link" target="_blank" href="https://www.google.com/advanced_search">Googleadvanced search</a> - allows to search through materials with chosen license <br/>
+	 <a class="content-link" target="_blank" href="https://ccsearch.creativecommons.org/">Creative Commons Search</a> - helps to find photographs and graphics available on CC licenses <br/>
+	 <a class="content-link" target="_blank" href="https://duckduckgo.com">DuckDuckGo</a> – helps to find videos available on CC licenses <br/>
+	  <a class="content-link" target="_blank" href="https://canweimage.com/">Can We Image</a> - finds photographs available on CC licenses
   </div>             
 </div>
    &nbsp;  
@@ -49,9 +49,9 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
    <img src="{{ site.baseurl }}/img/zasoby_ikona2.png" alt=""/>          
   </div>   
   <div class="col-md-10">
-    <strong>Repozytoria:</strong><br/>
-    <a class="content-link" target="_blank" href="https://www.europeana.eu">Europeana</a> (punkt dostępu do cyfrowych zbiorów instytucji kultury z całej Europy)<br/>
-	 <a class="content-link" target="_blank" href="https://polona.pl/">Polona</a> (biblioteka cyfrowa, udostępniająca zdigitalizowane zbiory m.in. Biblioteki Narodowej)
+    <strong>Databases:</strong><br/>
+    <a class="content-link" target="_blank" href="https://www.europeana.eu">Europeana</a> (entry point to cultural institutions’ databases across Europe)<br/>
+	 <a class="content-link" target="_blank" href="https://polona.pl/en/">Polona</a> (digital library uploading materials from the National Library of Poland)
   </div>             
 </div>    
    &nbsp;  
@@ -60,9 +60,9 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
    <img src="{{ site.baseurl }}/img/zasoby_ikona3.png" alt=""/>          
   </div>   
   <div class="col-md-10">
-    <strong>Wideo:</strong><br/>
+    <strong>Video:</strong><br/>
 	 <a class="content-link" target="_blank" href="https://vimeo.com/">Vimeo</a><br/>
-	 <a class="content-link" target="_blank" href="https://polona.pl/">YouTube</a> (po zmianie ustawień wyszukiwania)
+	 <a class="content-link" target="_blank" href="https://polona.pl/">YouTube</a> (after changing your settings, you can find films on free licenses)
   </div>             
 </div>    
  &nbsp;
@@ -71,9 +71,9 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
    <img src="{{ site.baseurl }}/img/zasoby_ikona4.png" alt=""/>          
   </div>   
   <div class="col-md-10">
-    <strong>Książki:</strong><br/>
-    <a class="content-link" target="_blank" href="https://wolnelektury.pl/">Wolne Lektury</a><br/>
-	 <a class="content-link" target="_blank" href="http://www.gutenberg.org/">Projekt Gutenberg</a>
+    <strong>Books:</strong><br/>
+    <a class="content-link" target="_blank" href="https://wolnelektury.pl/">Wolne Lektury</a> -  a project by Modern Poland Foundation, collecting works in the Wolne Lektury library that can be freely accessed, listened to, downloaded, shared with others, and cited<br/>
+	 <a class="content-link" target="_blank" href="http://www.gutenberg.org/">Projekt Gutenberg</a> - an online library, offering books from the entire world
   </div>             
 </div>    
  &nbsp;
@@ -82,7 +82,7 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
    <img src="{{ site.baseurl }}/img/zasoby_ikona5.png" alt=""/>          
   </div>   
   <div class="col-md-10">
-    <strong>Zdjęcia:</strong><br/>
+    <strong>Photographs:</strong><br/>
     <a class="content-link" target="_blank" href="https://pixabay.com/">Pixabay</a><br/>
 	<a class="content-link" target="_blank" href="https://www.flickr.com/">Flickr</a><br/>
 	 <a class="content-link" target="_blank" href="https://commons.wikimedia.org/wiki/Main_Page">Wikimedia Commons</a>
@@ -94,7 +94,7 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
    <img src="{{ site.baseurl }}/img/zasoby_ikona6.png" alt=""/>          
   </div>   
   <div class="col-md-10">
-    <strong>Muzyka: </strong><br/>
+    <strong>Music: </strong><br/>
     <a class="content-link" target="_blank" href="http://dig.ccmixter.org/">ccMixter</a><br/>
 	 <a class="content-link" target="_blank" href="http://openmusicarchive.org/">Open Music Archive</a>
   </div>             
@@ -106,9 +106,9 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
    <img src="{{ site.baseurl }}/img/zasoby_ikona7.png" alt=""/>          
   </div>   
   <div class="col-md-10">
-    <strong>Wiedza:</strong><br/>
+    <strong>Knowledge:</strong><br/>
      <a class="content-link" target="_blank" href="https://www.wikipedia.org/">Wikipedia</a><br/>
-	 <a class="content-link" target="_blank" href="https://www.epodreczniki.pl/begin/">e-podręczniki</a>
+	 
 </div>    
  &nbsp;
 <div class="row">
@@ -116,7 +116,7 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
    <img src="{{ site.baseurl }}/img/zasoby_ikona8.png" alt=""/>          
   </div>   
   <div class="col-md-10">
-    <strong>Ilustracje i ikony: </strong><br/>
+    <strong>Illustrations & icons: </strong><br/>
     <a class="content-link" target="_blank" href="http://www.clker.com/">clker.com</a><br/>
 	 <a class="content-link" target="_blank" href="https://openclipart.org/">openclipart</a>
   </div>             
@@ -127,7 +127,7 @@ Pamiętaj, aby zawsze zwracać uwagę na warunki licencji. <br/>
    <img src="{{ site.baseurl }}/img/zasoby_ikona9.png" alt=""/>          
   </div>   
   <div class="col-md-10">
-    <strong>Fonty: </strong><br/>
+    <strong>Fonts: </strong><br/>
      <a class="content-link" target="_blank" href="https://fontlibrary.org/">Open Font Library</a><br/>
 	 <a class="content-link" target="_blank" href="https://fonts.google.com/">Google Fonts</a>
   </div>             
