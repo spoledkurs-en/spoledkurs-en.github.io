@@ -28,13 +28,8 @@ What are open educational resources?
 To simplify, an open resource is one that we can download, copy, change according to our needs,  and upload to the Internet for others, who can modify the content as well (all derived from the original material).</p>
 &nbsp;
 <p>
-  <strong>Want to learn more about open educational resources?<br/> We recommend:</strong>
+  Want to learn more about open educational resources?<br/> We recommend resources from <a class="content-link" href="https://www.openeducationweek.org/resources">OE Week Library</a>.
  </p> 
  
-  <ul>
-  <li class="bullet">&bdquo;<a class="content-link" target="_blank" href="https://koed.org.pl/interaktywny-przewodnik-oze/">Otwarte Zasoby Edukacyjne. Szukaj, twórz, dziel się. Przewodnik online&rdquo;</a>,</li>
-<li class="bullet">stronę <a class="content-link" target="_blank" href="http://prawokultury.pl/publikacje/wolne-licencje/">prawokultury.pl</a>,</li>
-  <li class="bullet"> publikację <a class="content-link" target="_blank" href="https://men.gov.pl/wp-content/uploads/2013/07/mapa_oze.pdf"> &bdquo;Mapa otwartych zasobów edukacyjnych&rdquo;</a>.</li>
-</ul>
  
 </div>  
