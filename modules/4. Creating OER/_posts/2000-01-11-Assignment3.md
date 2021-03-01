@@ -14,7 +14,7 @@ Assignment 3
  Create (either in a group or alone) a lesson plan that will be an open educational resource. To create the plan, use the tools presented in the course. We recommend building upon the exercises that you prepared in the previous modules. 
   </p>
   &nbsp;
-  <p>
+<!--  <p>
     Quiz – open education concepts. <br/> Not all the concepts found in the quiz were part of the course. In case of any questions, turn to the Internet.
   </p> 
   <p><div class="row">
@@ -24,7 +24,7 @@ Assignment 3
 order:0px;width:100%;height:100%" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div></div>
 </div>
-  </p>
+  </p> -->
    &nbsp;
   <p>
   <strong>Discussion questions:</strong>
