@@ -27,11 +27,11 @@ Assignment 2
   </p>
 &nbsp;
 
-<p>
+ <!-- <p>
 We invite you to play around. Can you find all the key words that relate to open educational resources?
   </p>
 <p>
-  <!--
+ 
    <div class="row">
   <div class="col-md-12 col-xs-12">
    <div class="embed-responsive embed-responsive-16by9"> 
