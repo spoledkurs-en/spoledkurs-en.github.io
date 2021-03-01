@@ -26,14 +26,14 @@ At the end of the module you’ll find:
   </p>
   &nbsp;
 <p>
-  <strong>Pair up concepts from the dictionary:</strong>
+<!--  <strong>Pair up concepts from the dictionary:</strong>
   </p>
 <div class="row">
   <div class="col-md-12 col-xs-12">
    <div class="embed-responsive embed-responsive-16by9"> 
    <iframe src="https://learningapps.org/watch?v=p8d0fqg2n18" style="border:0px;width:100%;height:500px;" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div></div>
 </div>
-&nbsp;
+&nbsp; -->
 
   <p><strong>Discussion questions:</strong></p> 
 <p>
