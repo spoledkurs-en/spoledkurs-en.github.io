@@ -31,11 +31,12 @@ Assignment 2
 We invite you to play around. Can you find all the key words that relate to open educational resources?
   </p>
 <p>
+  <!--
    <div class="row">
   <div class="col-md-12 col-xs-12">
    <div class="embed-responsive embed-responsive-16by9"> 
    <iframe src="https://learningapps.org/watch?v=pczdqmgjt18" style="border:0px;width:100%;height:100%" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div></div>
-</div>
+</div> -->
  </p> 
 &nbsp;
 
