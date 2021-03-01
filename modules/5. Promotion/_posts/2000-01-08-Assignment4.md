@@ -14,7 +14,7 @@ Assignment 4
 Publish an open educational resource that you created during this course. You decide whether you want it to be on the school website, your blog, an educational site or social media. Think about the format: video, podcast, or maybe poster? There are plenty of possibilities. Find the perfect solution for you.
   </p>
   &nbsp;
-<p>
+<!-- <p>
  We invite you to take a quiz about Creative Commons.
   </p>
 <p>
@@ -23,7 +23,7 @@ Publish an open educational resource that you created during this course. You de
    <div class="embed-responsive embed-responsive-16by9"> 
    <iframe src="https://learningapps.org/watch?v=piep84mok18" style="border:0px;width:100%;height:100%" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe></div></div>
 </div>
- </p> 
+ </p> -->
 &nbsp;
 <p>
   <strong> Discussion question: </strong>
