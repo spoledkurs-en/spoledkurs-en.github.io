@@ -16,10 +16,10 @@ Think about your students as users, and your materials as products designed spec
   </p>
   
   <p>
-  Aby było łatwiej to zrobić, zamieszczamy poniżej link do publikacji Fundacji Szkoła z Klasą, w których znajdziecie narzędzia, do wykorzystania i opis metody:<br/>
-<a class="content-link" target="_blank" href="https://www.szkolazklasa.org.pl/materialy/desigh-thinking-edukacji/">https://www.szkolazklasa.org.pl/materialy/desigh-thinking-edukacji/</a>.
+ To make this easier, we’re including a link to useful materials, which lists tools and methods to use:<br/>
+<a class="content-link" target="_blank" href="https://www.codesigningschools.com/toolkit-phase-one">https://www.codesigningschools.com/toolkit-phase-one</a>.
   </p>
   
-  <p>Zachęcamy też do zajrzenia na stronę, na której zobaczysz, jak sam możesz <a class="content-link" target="_blank" href="https://dfcworld.com/Home/home?cname=Poland">wykorzystać Design Thinking na swoich lekcjach</a>.</p>
+  <p>We also encourage you to peruse this link, where you can learn more about<a class="content-link" target="_blank" href="https://dfcworld.com/SITE">using design thinking in your own lessons</a>.</p>
  
 </div> 
